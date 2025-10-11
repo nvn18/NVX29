@@ -168,7 +168,7 @@ In README:
 ![Security Pipeline](Images/security.png)
 *Integrated security scanning with Trivy and SBOM generation*
 
-![MLOps Module](Images/mlops.png)
+![MLOps Module](Images/Mlops.png)
 *MLflow tracking and model drift detection with EvidentlyAI*
 
 ![Observability](Images/observability.png)
