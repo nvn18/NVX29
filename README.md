@@ -162,12 +162,18 @@ Images/
 ```
 
 In README:
-```markdown
-![Dashboard](/Images/dashboard.png)
+![Dashboard](Images/dashboard.png)
+*NVX29 Developer Dashboard - Project overview and quick actions*
+
 ![Security Pipeline](Images/security.png)
+*Integrated security scanning with Trivy and SBOM generation*
+
 ![MLOps Module](Images/mlops.png)
+*MLflow tracking and model drift detection with EvidentlyAI*
+
 ![Observability](Images/observability.png)
-```
+*Real-time metrics and logs with Prometheus and Grafana*
+
 
 ---
 
