@@ -210,7 +210,7 @@ npm install
 npm run dev
 ```
 
-Access dashboard at **http://localhost:5173** 🚀  
+
 
 ---
 
