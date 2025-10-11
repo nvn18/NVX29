@@ -163,7 +163,7 @@ images/
 
 In README:
 ```markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](./images/dashboard.png)
 ![Security Pipeline](images/security.png)
 ![MLOps Module](images/mlops.png)
 ![Observability](images/observability.png)
