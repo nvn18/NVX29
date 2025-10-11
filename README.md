@@ -151,22 +151,22 @@ A team in NVIDIA wants to start a FastAPI + React project for model deployment.
 
 ## 📸 Screenshots (to be added)
 
-Place your images in the `docs/images` folder:
+Place your images in the `images` folder:
 
 ```
-docs/images/
+images/
 ├── dashboard.png
-├── pipeline.png
+├── security.png
 ├── mlops.png
 └── observability.png
 ```
 
 In README:
 ```markdown
-![Dashboard](docs/images/dashboard.png)
-![Pipeline](docs/images/pipeline.png)
-![MLOps Module](docs/images/mlops.png)
-![Observability](docs/images/observability.png)
+![Dashboard](images/dashboard.png)
+![security](images/pipeline.png)
+![MLOps Module](images/mlops.png)
+![Observability](images/observability.png)
 ```
 
 ---
