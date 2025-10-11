@@ -154,7 +154,7 @@ A team in NVIDIA wants to start a FastAPI + React project for model deployment.
 Place your images in the `images` folder:
 
 ```
-images/
+Images/
 ├── dashboard.png
 ├── security.png
 ├── mlops.png
@@ -164,9 +164,9 @@ images/
 In README:
 ```markdown
 ![Dashboard](/Images/dashboard.png)
-![Security Pipeline](images/security.png)
-![MLOps Module](images/mlops.png)
-![Observability](images/observability.png)
+![Security Pipeline](Images/security.png)
+![MLOps Module](Images/mlops.png)
+![Observability](Images/observability.png)
 ```
 
 ---
