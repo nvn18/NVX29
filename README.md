@@ -155,9 +155,10 @@ Place your images in the `images` folder:
 
 ```
 Images/
+├── creation.png
 ├── dashboard.png
 ├── security.png
-├── mlops.png
+├── Mlops.png
 └── observability.png
 ```
 
