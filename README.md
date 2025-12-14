@@ -225,7 +225,7 @@ Stay tuned and follow for updates 🌟
 ## 👨‍💻 Author
 
 **Naga Venkata Neeraj**  
-📞 6309321875  
+📞 +91 6309321875  
 🔗 [LinkedIn](https://www.linkedin.com/in/nvn18)  
 📧 neerajvanimireddy@gmail.com  
 
