@@ -1,7 +1,7 @@
 # 🚀 NVX29 — The Next-Gen Internal Developer Platform (IDP)
 
 ### 🧠 Built by: **Naga Venkata Neeraj**  
-📞 **6309321875**  
+📞 **+91 6309321875**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nvn18)  
 
 ---
